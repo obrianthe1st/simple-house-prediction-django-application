@@ -25,3 +25,6 @@ The features are:
 - city
 - statezip 
 - country
+
+
+Everything is provided within the project so you can take a look at it.
